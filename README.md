@@ -1,8 +1,9 @@
-
 Twitter Sentiment Analysis Model
 A Machine Learning Model for Classifying Twitter Sentiments
 🐦 Project Overview
 This project aims to classify tweets as positive or negative using Natural Language Processing (NLP) and Machine Learning techniques. It is built and trained on the Sentiment140 dataset (1.6M tweets), making it a robust solution for sentiment classification tasks.
+
+link for dataset --> https://www.kaggle.com/datasets/kazanova/sentiment140
 
 ⚡️ Features
 ✅ Data Preprocessing:
